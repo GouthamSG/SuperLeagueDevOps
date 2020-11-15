@@ -1,1 +1,1 @@
-Basic GIT commands execution for assignment_1 updated
+Basic GIT commands execution for assignment_1 updated to checkout
